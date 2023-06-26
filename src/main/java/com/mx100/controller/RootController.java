@@ -18,11 +18,11 @@ public class RootController {
 	
 	@RequestMapping(path = "/", method = RequestMethod.GET)
 	public ResponseEntity<?> root() {
-		MasterUserDto dto = new MasterUserDto();
+		/*MasterUserDto dto = new MasterUserDto();
 		dto.setUsername("freelancer2@ajobthing.com");
 		dto.setPassword("freelancer2");
 		dto.setUserTypeId(2);
-		masterUserService.createUser(dto);
+		masterUserService.createUser(dto);*/
 		return ResponseEntity.ok("MX100 v1.0.0 is running ......");
 	}
 	
