@@ -1,4 +1,4 @@
-package com.mx100.Response;
+package com.mx100.response;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

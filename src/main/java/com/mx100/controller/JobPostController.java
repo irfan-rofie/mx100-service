@@ -10,9 +10,9 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.mx100.Response.Response;
 import com.mx100.dto.JobPostDto;
 import com.mx100.model.JobPost;
+import com.mx100.response.Response;
 import com.mx100.service.JobPostService;
 
 @RestController
