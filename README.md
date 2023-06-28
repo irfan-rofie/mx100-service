@@ -21,8 +21,8 @@ As back end developer you must provide API to
 - Employer can view proposal from freelancer for their job post
 
 ## Rule
-- Developed API using java, spring boot, spring security
-- Database used MySQL
+- Developed API using java (Java 8 Version), spring boot, spring security
+- Database used MySQL (MySQL 8.0.29 Version)
 - Authentication system using oauth2 by [spring security](https://docs.spring.io/spring-security/reference/servlet/oauth2/index.html)
 
 ## Installation
